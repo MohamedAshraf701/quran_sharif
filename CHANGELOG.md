@@ -1,6 +1,6 @@
-## 0.0.0+6
+## 0.0.0+7
 
-# quran_sharif Package
+# Quran Sharif
 
 The `quran_sharif` package provides utility functions to retrieve information from the Quran, such as surahs, ayahs, and other related data. It depends on the `quran_sharif.arabic_data_model` package, which includes the necessary data models for representing Quranic data in Arabic.
 
@@ -70,7 +70,7 @@ Retrieves a list of surah names from the Quran.
 
 Returns: A list of surah names as `String`.
 
-#### `getSurahByrevelationType({required bool isMakki})`
+#### `getSurahByRevelationType({required bool isMakki})`
 
 Filters surahs from the Quran based on the revelation type.
 
@@ -90,6 +90,6 @@ For more details on each class and its properties, refer to the API documentatio
 
 ## API Documentation
 
-For the complete API reference, see the [quran_sharif API Documentation](https://zaid.digital).
+For the complete API reference, see the [quran_sharif API Documentation](https://pub.dev/documentation/quran_sharif/latest/quran_sharif/Quran-class.html).
 
 
