@@ -6,7 +6,8 @@
 
 A Flutter package that provides utility functions to retrieve information from the Quran, such as surahs, ayahs, and other related data.
 
-![Quran](https://example.com/quran-image.png)
+![Quran](https://github.com/MohamedAshraf701/quran_sharif/assets/92545354/43421462-c5e2-430d-8441-d9bfd47e9b67)
+
 
 ## Features
 
