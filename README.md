@@ -1,5 +1,5 @@
 
-# quran_sharif Package
+# Quran Sharif 
 
 [![Pub Version](https://img.shields.io/pub/v/quran_sharif.svg)](https://pub.dev/packages/quran_sharif)
 ![Flutter Platform](https://img.shields.io/badge/platform-flutter-yellow)
