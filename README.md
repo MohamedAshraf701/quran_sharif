@@ -62,11 +62,11 @@ For more details on each method and its usage, refer to the API documentation.
 
 ## Examples
 
-You can find more usage examples in the [example](example) folder of this repository.
+You can find more usage examples in the [example](https://github.com/MohamedAshraf701/quran_sharif/tree/main/example) folder of this repository.
 
 ## API Documentation
 
-The API documentation for this package can be found [here](https://zaid.digital).
+The API documentation for this package can be found [Api Documentation](https://pub.dev/documentation/quran_sharif/latest/quran_sharif/Quran-class.html).
 
 ## License
 
